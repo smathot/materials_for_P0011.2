@@ -11,7 +11,7 @@ For more information, please refer to the manuscript.
 - `data/` contains the raw participant data files.
 - `experiment/` contains the experimental script.
 - `stimuli/` contains the stimuli in `.png` format.
-- `summary.csv` contains the edge-based visual complexity normative ratings for each of the stimuli.
+- `summary.csv` contains the edge-based visual complexity and normative ratings for each of the stimuli.
 
 ## Dependencies
 
@@ -21,6 +21,6 @@ To run the experiment, you need OpenSesame. OpenSesame can be downloaded for fre
 
 ## License
 
-All files are licensed under a [Creative Commons Attribution 4.0 International license](http://creativecommons.org/licenses/by/4.0/). Attribution should be provided by citing the manuscript listed above.
-
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+Attribution should be provided by citing the manuscript listed above.
